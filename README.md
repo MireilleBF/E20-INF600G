@@ -25,7 +25,7 @@ La thématique 2020 est une collaboration avec _Université Côte d'Azur_ (Nice,
 
 Dans ce cadre, les étudiants de l'_UQAM_, de l'école d'ingénieur _Polytech Nice-Sophia Antipolis_ et de l'_Institut Universitaire de Technologie Nice - Côte d'Azur_ auront exploré les problématiques de génie logiciel sous-jacents à l'adaptation des logiciels pour les aînés.
 
-Le cours est organisé autour de quatre séquences pédagogique consécutives (et cumulatives), qui donnent chacune lieu à une livraison évaluée.
+Le cours est organisé autour de quatre séquences pédagogiqueS consécutives (et cumulatives), qui donnent chacune lieu à une livraison évaluée.
 
   - :white_circle: _Génie logiciel centré utilisateur_ (Semaines 1 à 3, individuelle)
   - :red_circle: _Dévelopement mobile_ (Semaines 4 à 7, en équipe)
@@ -51,7 +51,7 @@ Chaque séquence dure 4 semaines (sauf la première qui ne comporte pas de démo
 
 Les créneaux sur rendez vous sont choisis par les équipes parmi une liste de créneaux disponibles les mardis et jeudis, selon la règle du premier arrivé, premier servi.
 
-En parallele du travail réalisé techniquement, une partie de l'évaluation individuelle repose sur l'analyse critique d'un article de recherche décrivant des travaux récents
+En parallele du travail réalisé techniquement, une partie de l'évaluation individuelle repose sur l'analyse critique d'un article de recherche décrivant des travaux récents.
 
 ### Évaluation & Planning de rendus
 
@@ -106,12 +106,12 @@ Selon les critères de l'UQAM, chaque crédit d'enseignement équivaut à 30h de
 
 </div>
 
-## Environement Technique
+## Environnement Technique
 
 Pour suivre ce cours, vous devez avoir sur votre ordinateur personnel :
 
   1. le logiciel de gestion de version Git (et un compte Github pour la livraison)
-  2. l'environement de dévelopement Android Studio (séquences 2,3 et 4)
+  2. l'environnement de dévelopement Android Studio (séquences 2,3 et 4)
   3. l'environement de dévelopement RStudio (séquence 3 uniquement)
 
 ## Bibliographie & Références
