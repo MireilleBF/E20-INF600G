@@ -25,7 +25,7 @@ La thématique 2020 est une collaboration avec _Université Côte d'Azur_ (Nice,
 
 Dans ce cadre, les étudiants de l'_UQAM_, de l'école d'ingénieur _Polytech Nice-Sophia Antipolis_ et de l'_Institut Universitaire de Technologie Nice - Côte d'Azur_ auront exploré les problématiques de génie logiciel sous-jacents à l'adaptation des logiciels pour les aînés.
 
-Le cours est organisé autour de quatre séquences pédagogiqueS consécutives (et cumulatives), qui donnent chacune lieu à une livraison évaluée.
+Le cours est organisé autour de quatre séquences pédagogiques consécutives (et cumulatives), qui donnent chacune lieu à une livraison évaluée.
 
   - :white_circle: _Génie logiciel centré utilisateur_ (Semaines 1 à 3, individuelle)
   - :red_circle: _Dévelopement mobile_ (Semaines 4 à 7, en équipe)
